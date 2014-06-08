@@ -1,5 +1,4 @@
-### TwitterBot
-[@MacroEconBot](https://twitter.com/MacroEconBot)
+### TwitterBot   [@MacroEconBot](https://twitter.com/MacroEconBot)
 
 ==========
 #### About
