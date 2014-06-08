@@ -1,4 +1,6 @@
-### TwitterBot ([@MacroEconBot](https://twitter.com/MacroEconBot))
+### TwitterBot
+[@MacroEconBot](https://twitter.com/MacroEconBot)
+
 ==========
 #### About
 This is a Twitter bot/page-scraper that I wrote to notify Macroeconomics students at my university (through Twitter) when they sold out their goods on the [Virtual Macroeconomy](http://macro.exeter.ac.uk/macro/site/login).
