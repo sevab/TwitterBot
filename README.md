@@ -11,4 +11,4 @@ This is a Twitter bot/page-scraper that I wrote to notify Macroeconomics student
 The way the bot works is it logs in for each student into the [Virtual Macroeconomy](http://macro.exeter.ac.uk/macro/site/login), checks if that student sold anything since the last login, if he did, it sends that student a tweet with his current stock levels.
 
 #### History
-The bot worked for about a week notifying me and several other students. Unfortunately, soon after the professor behind the website detected tons of traffic from our accounts and almost disqualified us from the game. Fortunately, we worked it out and I was even offered to integrate the Twitter notifications into the simulator itself.
+The bot worked for about a week notifying me and several other students. Unfortunately, soon after the professor behind the website detected tons of traffic from our accounts he almost disqualified us from the game. Fortunately, we worked it out and I was even offered to integrate the Twitter notifications into the simulator itself.
